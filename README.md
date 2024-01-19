@@ -1,10 +1,4 @@
-Hi there! 👋 <br />
-I'm Rafael Armanelli, a **full-stack developer** based in Brazil.
-
-I work mostly with Javascript (ReactJS, React Native and NodeJS) and occasionally C#.
-
-View my full CV here: https://bit.ly/3fdeCHL
-
+**Full-stack developer** based in Brazil.
 <!--
 **armanelli/armanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
